@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  HUGO_BASEURL: https://plzhans.github.io/hugo-sample/
+  HUGO_BASEURL: https://hugosample.plzhans.com/
 
 jobs:
   build-and-deploy:
